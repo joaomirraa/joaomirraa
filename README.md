@@ -4,14 +4,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:74b5fa,50:4493f8,100:beaafc&height=5&width=100&section=divider&animation=blinking"/>
   
-<a href="https://github.com/DanielAndrade53/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielAndrade53&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="DanielAndrade53's github stats" />
+<a href="https://github.com/joaomirraa/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaomirraa&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="joaomirraa's github stats" />
 </a> 
 <a href="https://github.com/DanielAndrade53/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAndrade53&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomirraa&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </a>
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielAndrade53&bg_color=0D1117&color=00FF00&line=4493f8&point=00FF00&area=true&hide_border=true&title_color=00FF00" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaomirraa&bg_color=0D1117&color=00FF00&line=4493f8&point=00FF00&area=true&hide_border=true&title_color=00FF00" alt="GitHub Activity Graph"/>
   
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:74b5fa,50:4493f8,100:beaafc&height=5&width=100&section=divider&animation=blinking"/>
 
