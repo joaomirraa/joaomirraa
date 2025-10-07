@@ -1,7 +1,6 @@
 <div align="center">
 
 ### Hey, I'm João 👋  
-Always learning, building cool stuff and breaking things (on purpose 😅)
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:74b5fa,50:4493f8,100:beaafc&height=5&width=100&section=divider&animation=blinking"/>
   
@@ -24,6 +23,6 @@ Always learning, building cool stuff and breaking things (on purpose 😅)
 
 ### 📚 Currently Learning
 
-[![Skills](https://skillicons.dev/icons?i=python,sql,mysql,tensorflow,scikitlearn,aws,docker,&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,sql,html,css,js,&perline=10)](https://skillicons.dev)
 
 </div>
