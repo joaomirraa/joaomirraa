@@ -17,12 +17,12 @@
 
 ### 🧰 Languages & Tools
 
-[![Skills](https://skillicons.dev/icons?i=haskell,c,cs,cpp,java,python,powershell,git,github,clion,pycharm,idea,visualstudio,vscode,cmake,html,react,&perline=14)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=erlang,java,c,cpp,python,html,matlab,r,powershell,git,github,clion,pycharm,idea,visualstudio,vscode,cmake,react,&perline=14)](https://skillicons.dev)
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:74b5fa,50:4493f8,100:beaafc&height=5&width=100&section=divider&animation=blinking"/>
 
 ### 📚 Currently Learning
 
-[![Skills](https://skillicons.dev/icons?i=python,sql,html,css,js,&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,sql,java,c,&perline=10)](https://skillicons.dev)
 
 </div>
