@@ -5,8 +5,9 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:74b5fa,50:4493f8,100:beaafc&height=5&width=100&section=divider&animation=blinking"/>
 
 ### 🧠 About Me  
-Computer Science graduate from the University of Minho.  
-I like solving problems, learning new tech, and building useful things.
+Computer Science graduate from the University of Minho. 
+I enjoy sports, solving problems, and learning new things.
+
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:74b5fa,50:4493f8,100:beaafc&height=5&width=100&section=divider&animation=blinking"/>
   
