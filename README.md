@@ -26,12 +26,12 @@ I enjoy sports, solving problems, and learning new things.
 
 ### 🧰 Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=erlang,java,c,cpp,python,html,matlab,r,powershell,git,github,clion,pycharm,idea,visualstudio,vscode,cmake,react&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,java,c,cpp,python,html,matlab,r,powershell,git,github,clion,pycharm,idea,visualstudio,vscode,cmake,react&perline=14)](https://skillicons.dev)
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:74b5fa,50:4493f8,100:beaafc&height=5&width=100&section=divider&animation=blinking"/>
 
 ### 📚 Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=python,sql,java,c&perline=10)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=python,mysql,java,c&perline=10)](https://skillicons.dev)
 
 </div>
