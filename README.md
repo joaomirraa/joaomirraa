@@ -20,8 +20,6 @@ I enjoy sports, solving problems, and learning new things.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomirraa&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" />
 </a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaomirraa&bg_color=0D1117&color=00FF00&line=4493f8&point=00FF00&area=true&hide_border=true&title_color=00FF00" alt="GitHub Activity Graph"/>
-
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:74b5fa,50:4493f8,100:beaafc&height=5&width=100&section=divider&animation=blinking"/>
 
 ### 🧰 Languages & Tools
@@ -33,5 +31,9 @@ I enjoy sports, solving problems, and learning new things.
 ### 📚 Currently Learning
 
 [![Learning](https://skillicons.dev/icons?i=python,mysql,java,c&perline=10)](https://skillicons.dev)
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:74b5fa,50:4493f8,100:beaafc&height=5&width=100&section=divider&animation=blinking"/>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
