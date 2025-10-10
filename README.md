@@ -15,7 +15,7 @@ I enjoy sports, solving problems, and learning new things.
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomirraa&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomirraa&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
 </td>
 <td width="50%">
 <img src="https://streak-stats.demolab.com?user=joaomirraa&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
@@ -23,10 +23,10 @@ I enjoy sports, solving problems, and learning new things.
 </tr>
 <tr>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaomirraa&theme=tokyonight" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaomirraa&theme=tokyonight&utcOffset=0" alt="Productive Time"/>
 </td>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaomirraa&theme=tokyonight" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomirraa&theme=tokyonight" alt="Profile Details"/>
 </td>
 </tr>
 </table>
